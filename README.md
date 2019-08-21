@@ -1,28 +1,20 @@
 # PROYECTO: MARKETPLACE
 
-## Preámbulo
+## DATOS GENERALES
+Emprendimiento: Aris Gesund
+Industria: 
+Dueña: Romina Regalado
+Fecha de creación: Enero del 2019
 
-En el mundo hay muchas formas de vender en línea, el porcentaje de compradores
-online sigue creciendo y la gama de cosas que pueden comprar también lo hace.
-Como compradores no siempre somos conscientes de todo lo que debe pasar para que
-los productos que necesitamos estén en una repisa del supermercado o de una
-tienda. En el comercio minorista hay una serie de intermediarios que en
-ocasiones nos hacen perder la pista del ‘viaje’ de un producto; un viaje que va
-encareciendo el producto por cada empresa por la que debe pasar hasta que llega
-a las manos de nosotros, los consumidores.
-En esta realidad hay dos actores perjudicados: el consumidor, que acaba pagando
-más por un producto y el productor o fabricante, que se ve presionado a vender
-más barato para que su producto llegue al consumidor a un precio asequible y que
-todos puedan beneficiarse en el camino.
+## ¿Cómo inicio Aris Gesund?
 
-## Introducción
+Nace a raíz de una condición de salud(colesterol) de la menor hija de una de las socias, en la búsqueda de recetas saludables para  mejorar su calidad de vida,  que reemplacen los dulces, las harinas refinadas, etc y además que pueda llevarse al nido como refrigerio, o usarlo para cualquier otro evento. 
 
-### “Nuevo portal de e-commerce”
+Como primer acercamiento con un usuario decidieron probar la aceptación de los niños de estos bocaditos saludables dulces, identificando junto a su socia, quien es nutricionista, que si tenían la aceptación de estos productos, por lo que deciden asociarse en el mes de enero para formar una empresa para poder ofrecer todo tipo de bocaditos saludables(sin preservantes, sin azúcar refinada, saborizadas y todo al natural)
 
-Existen pequeñas empresas (emprendimientos) que comercializan productos y 
-servicios reduciendo la cantidad de intermediarios. En este proyecto, tienes que
-asesorar a un emprendimiento a crear o mejorar un portal desde donde los clientes compren
-sus productos o servicios. Algunos de los emprendimientos con los cuales puedes trabajar son:
+### Objetivos del proyecto
+
+Nuestro objetivo principal 
 
 - [Aris Gesund](https://www.facebook.com/Aris-Gesund-248861299328628/)
 - [Sante Perú](https://www.facebook.com/sante.peru/)
@@ -33,19 +25,21 @@ sus productos o servicios. Algunos de los emprendimientos con los cuales puedes 
 - [Detalazo](https://detalazo.pe/)
 - [Fishermen](https://www.facebook.com/fishermenoficial/)
 
-Luego de definir con qué emprendimiento trabajarás, debes ayudarlos
-a hacer un estudio inicial de cómo debería ser este portal de ventas y
-cómo deben ofrecer los productos o servicios a los consumidores. Queremos que averigües cómo
-son los clientes que utilizaría este canal de venta y cuáles son sus
-motivaciones, cómo es el mercado actual en el que incursionarán; y que propongas
-una visión de cómo podría plantearse o mejorarse este nuevo canal de ventas.
+## Herramientas usadas para la implementación
 
-Una vez realizada la investigación debes formular una propuesta de valor. Esto
-quiere decir que debes pensar cómo este portal va a comunicar sus beneficios a
-los usuarios y cómo va a vender sus productos. Para que guíes a la empresa que
-elijas a entender tu visión, esperan que les hagas una propuesta de cómo podría
-ser el portal donde las personas puedan buscar, ver, elegir y comprar sus
-productos.
+Hemos usado las siguientes herramientas para llevar nuestra investigación a cabo.
+
+|Actividad|Descripción|Puntos|
+|:----|:---|:---:|
+|Entrevistas con cliente|Realización de entrevistas con el cliente (dueño del reto) y establecimiento de sus metas y objetivos.|25|
+|Benchmark| Revisión de features de la competencia y referencias análogas. | 20 |
+|Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 |
+|Flujo / árbol de contenidos|Documento que estructura contenidos y su navegación|15|
+|Testeos de prototipos| Sesiones de testing de la solución propuesta (baja, media y alta fidelidad) con al menos 5 usuarios por sesión. | 60 |
+|Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
+|Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
+
+[Tabla de implementación](https://docs.google.com/document/d/1javrxtUo6EVp0c-c8n3sDXwiwRkoJeKgPHNx5xRl-ig/edit)
 
 ## Objetivos de aprendizaje
 
@@ -69,7 +63,20 @@ es ganar experiencia en trabajos con entrega grupal. Cada uno de las integrantes
 será responsable de una parte del trabajo: (1) el entendimiento del problema y
 (2) planeamiento y validación de la solución.
 
-## Tópicos a cubrir
+### Descubrimiento e Investigación
+#### 1. Entrevista con cliente
+#### 2. Benchmark
+#### 3. Entrevista con Usuarios o posibles Usuarios
+### Síntexis y Definición
+#### 1. Affinity Map
+#### 2. User Persona
+# ![image](https://docs.google.com/document/d/1fkAUbAAXAwlygFuoXkC3230WnkdMOl0oGCSqIBtGhjY/edit)
+#### 3. Customer Journey Map
+#### 4. Problem Statement
+#### 5. How Might We ?
+### Ideación 
+### Prototipado
+### User Testing
 
 Para completar este proyecto tendrás que familiarizarte con conceptos como: UX
 research (entrevistas, benchmark), arquitectura de la información (flujo de
@@ -189,18 +196,12 @@ El coach te dará el ok para que puedas empezar.
 
 |Actividad|Descripción|Puntos|
 |:----|:---|:---:|
-|Entendimiento del problema, la industria y el contexto| Entender el contexto del negocio y lo que existe hoy en día respecto de la industria del proyecto. | 15 |
 |Entrevistas con cliente|Realización de entrevistas con el cliente (dueño del reto) y establecimiento de sus metas y objetivos.|25|
 |Benchmark| Revisión de features de la competencia y referencias análogas. | 20 |
 |Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 |
-|Observación contextual| Observación de al menos 5 usuarios en un contexto real de uso/compra. | 35 |
-|Inventario de contenidos| Inventario de todos los contenidos de un producto. | 15 |
 |Flujo / árbol de contenidos|Documento que estructura contenidos y su navegación|15|
-|Card Sorting| Actividad para entender el modelo mental de los usuarios en términos de organización de los contenidos. | 15 |
-|Testeo de soluciones actuales de la competencia| Sesiones de testing de productos actuales de la competencia para ver qué atributos valoran los usuarios. Al menos 5 usuarios.| 50 |
 |Testeos de prototipos| Sesiones de testing de la solución propuesta (baja, media y alta fidelidad) con al menos 5 usuarios por sesión. | 60 |
 |Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
-|Prototipado de contenido| Prototipado y testeo del contenido del producto. | 30 |
 |Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
 
 ## Entrega
