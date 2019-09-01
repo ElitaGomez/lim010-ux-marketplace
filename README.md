@@ -227,7 +227,7 @@ Para realizar este prototipo tomamos en cuenta el benchmark dado que no contamos
 
 ### **Link a zeplin**
 
-[Zeplin]()
+[Zeplin](https://app.zeplin.io/project/5d69777ee38e740efbf7eaa8)
 
 ### **Link a carpeta de Drive**
 
